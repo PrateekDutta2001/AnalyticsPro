@@ -13,6 +13,8 @@ Organizations and individuals struggle with extracting meaningful insights from 
 
 5. Limited Analytical Depth: Basic spreadsheet tools lack advanced pattern recognition capabilities, leaving valuable insights hidden within the data.
 
+<img width="154" alt="logo" src="https://github.com/user-attachments/assets/0fdf8746-b3f3-4d7e-8b77-ced0267484ff" />
+
 # Solution Overview
 The AI Data Analysis Dashboard is a comprehensive, client-side web application that democratizes data analysis by providing instant, intelligent insights without compromising data security. Built as a standalone application, it combines robust data processing capabilities with AI-driven analysis to deliver professional-grade analytics that run entirely in the user's browser.
 
